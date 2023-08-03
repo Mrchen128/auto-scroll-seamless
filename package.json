@@ -1,0 +1,20 @@
+{
+  "name": "auto-scroll-seamless",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "author": "chell",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": ">=3.0.0"
+  },
+  "engines": {
+    "node": ">=16.15.0"
+  }
+}
