@@ -1,7 +1,7 @@
 {
   "name": "auto-scroll-seamless",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "一个基于vue3的无缝滚动组件（支持垂直和水平方向）",
   "main": "index.js",
   "author": "chell",
   "scripts": {
